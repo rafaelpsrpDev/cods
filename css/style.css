@@ -1,0 +1,31 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    width: 940px;
+    margin: 0 auto;
+    padding-top: 10px;
+    position: relative;
+}
+
+form input{
+
+    width: 440px;
+    height: 30px;
+    position: absolute;
+   
+}
+
+.nodecoration{
+
+    list-style: none;
+}
+
+button{
+
+    
+}
